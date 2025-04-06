@@ -1,4 +1,9 @@
-#PRESETANCION
+*PRESEnTACION*
+GRUPO INSERVIBLES
+
+![Imagen de WhatsApp 56f93cc3-a20c-4ed5-97e7-46155ee8156d](https://github.com/user-attachments/assets/e5c74bc8-a5a1-4f06-8298-bce0a7d6427e)
+
+
 
 ## ***- Alumno***
 *Hola soy Terry Bryam Mayhua Martinez, soy estudiando de la carrera de Ing. Biomedica*
@@ -41,5 +46,5 @@
 ## ***- Hobbies*** 
 *Tocar guitarra, componer y hacer deportes*
 
-![Imagen de WhatsApp 56f93cc3-a20c-4ed5-97e7-46155ee8156d](https://github.com/user-attachments/assets/e5c74bc8-a5a1-4f06-8298-bce0a7d6427e)
+
 
