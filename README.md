@@ -25,3 +25,12 @@
 *En mis tiempos libres me gusta jugar videojuegos, escuchar música, ver series y hacer deporte*
 
 !
+
+
+## ***- Alumno***
+*Hola soy Fabio Fernando Congachi Vilca, soy estudiante de la carrera de Ing. Biomedica*
+
+## ***- Hobbies*** 
+*Jugar fuchibol, dibujar, aprender nuevos idiomas, videojuegos, viajar*
+
+
