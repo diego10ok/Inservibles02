@@ -39,4 +39,4 @@
 *Hola soy Javier Denis Bernal Garayar, soy estudiante de la carrera de Ing. Biomedica*
 
 ## ***- Hobbies*** 
-*Jugar futbol, escuchar musica y salir con mis amigos*
+*Tocar guitarra, componer y hacer deportes*
