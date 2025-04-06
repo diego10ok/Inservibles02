@@ -11,7 +11,8 @@
 ## ***- Hobbies*** 
 *Compooner, escribir , hacer deporte y ir a conocer nuevos lugares*
 
-![Imagen de WhatsApp 2025-04-05 a las 23 22 39_5c9d7546](https://github.com/user-attachments/assets/94b02719-cf0d-438e-80a5-bd17aef5a56d)![Imagen de WhatsApp 2025-04-05 a las 20 30 43_97107a6b](https://github.com/user-attachments/assets/2f4428fb-1773-4388-b9c1-b1a427ca1351)
+![Imagen de WhatsApp 2025-04-05 a las 23 22 39_5c9d7546](https://github.com/user-attachments/assets/94b02719-cf0d-438e-80a5-bd17aef5a56d)
+![Imagen de WhatsApp 2025-04-05 a las 20 30 43_97107a6b](https://github.com/user-attachments/assets/2f4428fb-1773-4388-b9c1-b1a427ca1351)
 
 ## ***- Alumno Inservible 2***
 *Hola soy Diego Joel Custodio Gonzales,tengo 19 años y soy estudiando de la carrera de Ing. Biomedica*
