@@ -34,3 +34,9 @@
 *Jugar fuchibol, dibujar, aprender nuevos idiomas, videojuegos, viajar*
 
 
+
+## ***- Alumno***
+*Hola soy Javier Denis Bernal Garayar, soy estudiante de la carrera de Ing. Biomedica*
+
+## ***- Hobbies*** 
+*Jugar futbol, escuchar musica y salir con mis amigos*
