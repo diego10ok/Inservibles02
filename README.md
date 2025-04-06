@@ -13,8 +13,7 @@
 
 ## ***- Hobbies*** 
 *Me gusta jugar futbol, montar bicicleta, leer y conocer lugares nuevos*
-
-
+![Imagen de 7f35724b-49ed-4e0c-9d1c-f00b581833cf](https://github.com/user-attachments/assets/92e939d9-bbef-407f-a7b7-486f87cfd17f)
 
 ## ***- Alumno***
 *Hola soy Edwin José Guillermo Fajardo Peña, tengo 18 años y soy estudiante de la carrera de Ingeniería Biomédica*
