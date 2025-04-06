@@ -61,7 +61,11 @@
 *Hola soy Josue Mateo Hidalgo Carillo, soy estudiante de la carrera de Ing. Biomedica*
 
 ## ***- Hobbies*** 
-*Tocar guitarra, componer y hacer deportes*
+*Escuchar rock en español e ingles, leer comics y ver series de DC*
+
+![2](https://github.com/user-attachments/assets/ed4eb467-52e6-41b8-a5ed-47a595df54f4)
+![1](https://github.com/user-attachments/assets/1e3c84fc-110a-4aea-8124-c934252bf338)
+
 
 
 
