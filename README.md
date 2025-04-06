@@ -38,6 +38,10 @@ GRUPO INSERVIBLES
 ## ***- Hobbies*** 
 *Jugar fuchibol, dibujar, aprender nuevos idiomas, videojuegos, viajar*
 
+![WhatsApp Image 2025-04-05 at 11 02 20 PM](https://github.com/user-attachments/assets/1a3d13c2-f026-4cdc-b040-a3b153458d1c)
+![WhatsApp Image 2025-04-05 at 11 05 58 PM](https://github.com/user-attachments/assets/02458038-647c-4ff6-a6fc-b427efd057ac)
+
+
 
 
 ## ***- Alumno***
