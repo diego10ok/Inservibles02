@@ -1,6 +1,6 @@
 <h1 align="center">PRESENTACIÓN GRUPO INSERVIBLES</h1>
  <style>
-   p {
+   {
       font-family: 'Verdana', sans-serif;
       font-size: 18px;
       color: #333;
