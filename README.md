@@ -1,14 +1,14 @@
 <h1 align="center">PRESENTACIÓN GRUPO INSERVIBLES</h1>
- <style>
-   {
-      font-family: 'Verdana', sans-serif;
-      font-size: 18px;
-      color: #333;
- </style>
 
 <h2>GRUPO INSERVIBLES</h2> 
 
 <p> Grupo de estudiantes con un futuro dudoso que quieren ser unos ingenieros fantasticas, gracias a su profesor encargado del cursp y que gracias a su entusiamo podran logras objetivos nunca antes visto. Por ello este gupo de alumnos son los siguientes promesas del futuro. </p>
+ <style>
+ p  {
+      font-family: 'Verdana', sans-serif;
+      font-size: 18px;
+      color: #333;
+ </style>
 
 ![Imagen de WhatsApp 56f93cc3-a20c-4ed5-97e7-46155ee8156d](https://github.com/user-attachments/assets/e5c74bc8-a5a1-4f06-8298-bce0a7d6427e)
 
